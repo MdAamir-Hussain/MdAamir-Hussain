@@ -1,4 +1,4 @@
-![logo](https://github.com/MdAamir-Hussain/MdAamir-Hussain/blob/main/digitization-g98b2f2db1_1920.jpg)
+![logo](https://github.com/MdAamir-Hussain/MdAamir-Hussain/blob/main/git-img.jpg)
 <h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
 <h3 align="center">Self Taught Programmer ,Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif">
